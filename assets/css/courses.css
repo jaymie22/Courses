@@ -1,0 +1,68 @@
+*{
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+
+#wrapper{
+	border: 1px solid black;
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+	form div label{
+		display: inline-block;
+		width: 150px;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+
+	#wrapper table th{
+		background-color: #078810;
+		color: white;
+		padding: 5px;
+		width: 200px;
+	}
+
+	#wrapper table tr td{
+		border:1px solid black;
+		padding: 5px;
+		width: 200px;
+		text-align: center;
+	}
+
+#delete_wrapper{
+	border: 1px solid black;
+	width: 500px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+	#delete_wrapper div label{
+		display: inline-block;
+		width: 150px;
+		margin: 5px auto;
+	}
+
+	#delete_wrapper div{
+		margin-bottom: 10px;
+	}
+
+	.yes_button, .no_button{
+		padding:  4px 8px;	
+		text-align: center;
+		color: white;
+		text-decoration: none;
+	}
+
+	.yes_button{
+		background-color: #0E6600;			
+	}
+
+	.no_button{
+		margin-left: 25%;	
+		background-color: #A30000;
+	}
+
+
+
+	
